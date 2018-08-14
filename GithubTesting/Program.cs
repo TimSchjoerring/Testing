@@ -12,6 +12,8 @@ namespace GithubTesting
 
             Console.WriteLine("Written by Test subject 1");
 
+            Console.WriteLine("Written by Test subject 2");
+
         }
     }
 }

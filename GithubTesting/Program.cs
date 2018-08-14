@@ -7,6 +7,8 @@ namespace GithubTesting
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+
+            Console.WriteLine("go away");
         }
     }
 }
